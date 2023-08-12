@@ -3,10 +3,11 @@
 using namespace std; 
 
 
-void insertsort() 
+void quick() 
 {
   // 
-} 
+}
+
 int main() 
 {
   cout<<"Hello World"; 
