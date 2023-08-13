@@ -3,7 +3,7 @@
 using namespace std; 
  
 
-void quick_sort() 
+void bubble_sort() 
 {
   // 
 } 
