@@ -3,6 +3,10 @@
 using namespace std; 
  
 
+void quick_sort() 
+{
+  // 
+} 
 int main() 
 {
   cout<<"Hello World";  
