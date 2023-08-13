@@ -9,6 +9,11 @@ void bubble_sort()
 } 
 
 
+void sort() 
+{
+ // 
+} 
+
 void merge_sort() 
 {
  //
