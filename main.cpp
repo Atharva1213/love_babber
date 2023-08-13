@@ -7,6 +7,11 @@ void bubble_sort()
 {
   // 
 } 
+
+void quick_sort() 
+{ 
+ //
+}
 int main() 
 {
   cout<<"Hello World";  
