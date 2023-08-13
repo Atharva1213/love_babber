@@ -8,6 +8,11 @@ void bubble_sort()
   // 
 } 
 
+
+void merge_sort() 
+{
+ //
+}
 void quick_sort() 
 { 
  //
