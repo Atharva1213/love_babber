@@ -2,12 +2,6 @@
 
 using namespace std; 
 
-
-void quick() 
-{
-  // 
-}
-
 int main() 
 {
   cout<<"Hello World"; 
